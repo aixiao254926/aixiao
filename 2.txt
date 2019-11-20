@@ -5,4 +5,8 @@ sfsdfsdf
 dafadf
 dfsa
 你好吗？
+<<<<<<< HEAD
 呀呀呀
+=======
+我很好
+>>>>>>> featurel
